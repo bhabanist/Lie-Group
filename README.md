@@ -1,2 +1,2 @@
 # Lie-Group
-here we have su(3)
+here we have su(3) group generators which are nothing but 8 gell-mann matrices. Now we can convert it into new plus minus basis as we usually do in su(2) case(Sx,Sy,Sz to S+,S-,S-z).Then we veryfy the multiplication table. again when we define Su(3) in adjoint representation that will be a 8 x 8 matrices(dimension of representation itself). We verified the multiplication table. Check out the Lie algebra book by CAHN for the SU(3) table.
